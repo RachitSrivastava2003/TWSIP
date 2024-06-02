@@ -321,35 +321,35 @@
 
 #a{
     grid-area: a;
-    background-image:url(/Add/show3.jpg);
+    background-image:url(show3.jpg);
     background-position: center;
     background-size:cover;
     object-fit:cover;
 }
 #b{
     grid-area: b;
-    background-image:url(/Add/show2.jpg);
+    background-image:url(show2.jpg);
     background-position: center;
     background-size:cover;
     object-fit:cover;
 }
 #c{
     grid-area: c;
-    background-image:url(/Add/show1.jpg);
+    background-image:url(show1.jpg);
     background-position: center;
     background-size:cover;
     object-fit:cover;
 }
 #d{
     grid-area: d;
-    background-image:url(/Add/show4.jpg);
+    background-image:url(show4.jpg);
     background-position: center;
     background-size:cover;
     object-fit:cover;
 }
 #e{
     grid-area: e;
-    background-image:url(/Add/show5.jpg);
+    background-image:url(show5.jpg);
     background-position: center;
     background-size:cover;
     object-fit:cover;
