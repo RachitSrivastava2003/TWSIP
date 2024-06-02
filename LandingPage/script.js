@@ -16,9 +16,9 @@ let ham = document.getElementById("ham");
 let cross = document.getElementById("cross");
 let rev = document.querySelector(".responsive-nav");
 
-let imges = ["url(Add/one.jpg)","url(Add/show2.jpg)","url(Add/show3.jpg)",
-"url(Add/show4.jpg)","url(Add/show5.jpg)","url(Add/show6.jpg)","url(Add/show7.jpg)",
-,"url(Add/show8.jpg)","url(Add/show9.jpg)","url(Add/show10.jpg)"];
+let imges = ["url(one.jpg)","url(show2.jpg)","url(show3.jpg)",
+"url(show4.jpg)","url(show5.jpg)","url(show6.jpg)","url(show7.jpg)",
+,"url(show8.jpg)","url(show9.jpg)","url(show10.jpg)"];
 
 let para = ["Move, Shop, Customise & Celebrate With Us.","New Styles on Sale: Up to 40% Off","On New Brands: Up to 80% Off"]; 
 let para1 = ["No matter what you feel like doing today, It’s better as a Member.","Get Brand New Products","Free home delivery on order worth ₹ 699 and above"]; 
